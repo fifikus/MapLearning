@@ -1,0 +1,44 @@
+{
+    "data": [
+      {
+        "kraj_id": 1,
+        "kraj_name": "Bratislavský kraj",
+        "populacia": 650000
+      },
+      {
+        "kraj_id": 2,
+        "kraj_name": "Trnavský kraj",
+        "populacia": 50000
+      },
+      {
+        "kraj_id": 3,
+        "kraj_name": "Trenčiansky kraj",
+        "populacia": 40000
+      },
+      {
+        "kraj_id": 4,
+        "kraj_name": "Nitriansky kraj",
+        "populacia": 55000
+      },
+      {
+        "kraj_id": 5,
+        "kraj_name": "Žilinský kraj",
+        "populacia": 70000
+      },
+      {
+        "kraj_id": 6,
+        "kraj_name": "Banskobystrický kraj",
+        "populacia": 60000
+      },
+      {
+        "kraj_id": 7,
+        "kraj_name": "Prešovský kraj",
+        "populacia": 80000
+      },
+      {
+        "kraj_id": 8,
+        "kraj_name": "Košický kraj",
+        "populacia": 350000
+      }
+    ]
+  }
